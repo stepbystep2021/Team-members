@@ -1,0 +1,10 @@
+body{
+      background-color: #c2f784;
+     }
+.photo-container {
+      font-family: 'Sacramento', sans-serif;
+      font-size: 2.5rem;
+      /* color: #66BFBF; */
+      font-weight: normal;
+      padding-bottom: 10px;
+    }
